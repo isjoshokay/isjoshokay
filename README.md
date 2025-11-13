@@ -26,7 +26,7 @@ I enjoy:
 
 ---
 
-## 🧪 Current Projects
+## 🧪 Projects
 ### **D3PHCOM** — Sentiment dashboard for geopolitical risk  
 *Server & microservices architecture, Socket-based data flow, OpenAI API*
 
