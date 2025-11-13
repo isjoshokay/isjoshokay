@@ -1,5 +1,7 @@
 ## Hi there 👋
-https://docs.google.com/presentation/d/e/2PACX-1vTyhvoeUBvhjAs93sAEgnIEpM17LyoOx1lGc0bEdXeL1bu_gjfbmmwHyNEhfTMfxqf9-z4eOgUeC9-r/pub?start=false&loop=false&delayms=10000
+
+### My name is Joshua Peoples. I am studying Computational Mathematical Sciences at Arizona State University. 
+[Click this link to learn more!](https://docs.google.com/presentation/d/e/2PACX-1vTyhvoeUBvhjAs93sAEgnIEpM17LyoOx1lGc0bEdXeL1bu_gjfbmmwHyNEhfTMfxqf9-z4eOgUeC9-r/pub?start=false&loop=false&delayms=10000)
 <!--
 **isjoshokay/isjoshokay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
