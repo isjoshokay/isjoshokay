@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Joshua Peoples — a Computational Mathematical Sciences student at Arizona State University, focusing on the intersection of **systems engineering**, **graphics programming**, and **machine learning**.
+I'm Joshua Peoples — a Computational Mathematical Sciences student at Arizona State University, focusing on **systems engineering**, **graphics programming**, and **machine learning**.
 
 🔗 **[Portfolio Slide Deck (Highly Visual)](https://docs.google.com/presentation/d/e/2PACX-1vTyhvoeUBvhjAs93sAEgnIEpM17LyoOx1lGc0bEdXeL1bu_gjfbmmwHyNEhfTMfxqf9-z4eOgUeC9-r/pub?start=false&loop=false&delayms=10000)**  
 
