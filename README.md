@@ -9,7 +9,6 @@ I'm Joshua Peoples — a Computational Mathematical Sciences student at Arizona 
 ## 🎮 What I’m Working Toward
 I’m aiming for roles that sit at the boundary between **graphics**, **engines**, and **tools** — the parts of technology that power games, simulations, and interactive systems.
 
-I enjoy:
 - Building backend systems and services  
 - Working with rendering, shaders, and graphics pipelines  
 - Designing tools that support creators and players  
@@ -27,7 +26,7 @@ I enjoy:
 
 ## 🧪 Projects
 ### **D3PHCOM** — Sentiment dashboard for geopolitical risk  
-*Server & microservices architecture, Socket-based data flow, OpenAI API*
+*Server & microservices architecture, Socket-based data flow, OpenAI & Twitter API*
 
 ### **Computational Synesthesia** — Research project on classifying cultures using image-derived features  
 *MATLAB, Pandas, K-Means, PCA*
@@ -42,7 +41,6 @@ I enjoy:
 ## 📫 Contact
 - **Email:** jpeople1@asu.edu  
 - **LinkedIn:** https://linkedin.com/in/joshpeoples  
-- **GitHub:** https://github.com/isjoshokay  
 <!--
 **isjoshokay/isjoshokay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
