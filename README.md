@@ -26,13 +26,13 @@ I’m aiming for roles that sit at the boundary between **graphics**, **engines*
 
 ## 🧪 Projects
 
-### **[Pizza Planet](https://github.com/isjoshokay/Pizza-Planet-Strongmind)** — Full-stack CRUD prototype using MVC  
+**[Pizza Planet](https://github.com/isjoshokay/Pizza-Planet-Strongmind)** — Full-stack CRUD prototype using MVC  
 *Node.js, MongoDB, templating, authentication*
 
-### **[D3PHCOM](https://github.com/isjoshokay/d3phcom-dcp)** — Sentiment dashboard for geopolitical risk  
+**[D3PHCOM](https://github.com/isjoshokay/d3phcom-dcp)** — Sentiment dashboard for geopolitical risk  
 *Server & microservices architecture, Socket-based data flow, OpenAI & Twitter API*
 
-### **[Computational Synesthesia](https://docs.google.com/presentation/d/e/2PACX-1vQvKFj_88U_Vv9USUNBAkLZ-sneQ4h_0bPrwP_aQSxZ6Lua5ZI3P_szPe2KeF-PNwRbLpXmvLfazhcS/pub?start=false&loop=false&delayms=3000)** — Research project on classifying cultures using image-derived features  
+**[Computational Synesthesia](https://docs.google.com/presentation/d/e/2PACX-1vQvKFj_88U_Vv9USUNBAkLZ-sneQ4h_0bPrwP_aQSxZ6Lua5ZI3P_szPe2KeF-PNwRbLpXmvLfazhcS/pub?start=false&loop=false&delayms=3000)** — Research project on classifying cultures using image-derived features  
 *MATLAB, Pandas, K-Means, PCA*
 
 
