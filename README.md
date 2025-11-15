@@ -32,7 +32,7 @@ I’m aiming for roles that sit at the boundary between **graphics**, **engines*
 **[D3PHCOM](https://github.com/isjoshokay/d3phcom-dcp)** — Sentiment dashboard for geopolitical risk  
 *Server & microservices architecture, Socket-based data flow, OpenAI & Twitter API*
 
-**[Computational Synesthesia](https://docs.google.com/presentation/d/e/2PACX-1vQvKFj_88U_Vv9USUNBAkLZ-sneQ4h_0bPrwP_aQSxZ6Lua5ZI3P_szPe2KeF-PNwRbLpXmvLfazhcS/pub?start=false&loop=false&delayms=3000)** — Research project on classifying cultures using image-derived features  
+**[Computational Synesthesia (Colors of Cultures)](https://docs.google.com/presentation/d/e/2PACX-1vQvKFj_88U_Vv9USUNBAkLZ-sneQ4h_0bPrwP_aQSxZ6Lua5ZI3P_szPe2KeF-PNwRbLpXmvLfazhcS/pub?start=false&loop=false&delayms=3000)** — Research project on classifying cultures using image-derived features  
 *MATLAB, Pandas, K-Means, PCA*
 
 
