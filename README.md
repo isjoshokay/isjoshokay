@@ -17,8 +17,8 @@ I’m aiming for roles that sit at the boundary between **graphics**, **engines*
 ---
 
 ## 🛠 Technical Areas I Work In
-- **Languages:** Python, JavaScript/TypeScript, C, MATLAB  
-- **Frameworks/Tools:** Node.js, Next.js/Vercel, MongoDB, Socket.io  
+- **Languages:** Python, JavaScript/TypeScript, C, C++, MATLAB  
+- **Frameworks/Tools:** Node.js, Next.js/Vercel, MongoDB, Socket.io, React.js, Express.js
 - **Math/ML:** K-Means, PCA, statistical classification  
 - **Graphics:** Rendering fundamentals, shader concepts, simulation techniques  
 
