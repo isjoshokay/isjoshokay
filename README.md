@@ -25,14 +25,17 @@ I’m aiming for roles that sit at the boundary between **graphics**, **engines*
 ---
 
 ## 🧪 Projects
+
+### **Pizza Planet** — Full-stack CRUD prototype using MVC  
+*Node.js, MongoDB, templating, authentication*
+
 ### **D3PHCOM** — Sentiment dashboard for geopolitical risk  
 *Server & microservices architecture, Socket-based data flow, OpenAI & Twitter API*
 
 ### **Computational Synesthesia** — Research project on classifying cultures using image-derived features  
 *MATLAB, Pandas, K-Means, PCA*
 
-### **Pizza Planet** — Full-stack CRUD prototype using MVC  
-*Node.js, MongoDB, templating, authentication*
+
 
 (Full descriptions and visuals are in the portfolio link above.)
 
