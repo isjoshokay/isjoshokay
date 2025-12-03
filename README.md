@@ -17,9 +17,9 @@ I’m aiming for roles that sit at the boundary between **graphics**, **engines*
 ---
 
 ## 🛠 Technical Areas I Work In
-- **Languages:** Python, JavaScript/TypeScript, C, C++, MATLAB  
-- **Frameworks/Tools:** Node.js, Next.js/Vercel, MongoDB, Socket.io, React.js, Express.js
-- **Math/ML:** K-Means, PCA, statistical classification  
+- **Languages:** Python, JavaScript/TypeScript, C, C++  
+- **Frameworks/Tools:** Node.js, MongoDB, Socket.io, React.js, Express.js, Next.js/Vercel
+- **Math/ML:** K-Means, PCA, Statistical Classification  
 - **Graphics:** Rendering fundamentals, shader concepts, simulation techniques  
 
 ---
@@ -44,17 +44,3 @@ I’m aiming for roles that sit at the boundary between **graphics**, **engines*
 ## 📫 Contact
 - **Email:** jpeople1@asu.edu  
 - **LinkedIn:** https://linkedin.com/in/joshpeoples  
-<!--
-**isjoshokay/isjoshokay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
