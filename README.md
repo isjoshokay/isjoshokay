@@ -18,7 +18,7 @@ I’m aiming for roles that sit at the boundary between **graphics**, **engines*
 
 ## 🛠 Technical Areas I Work In
 - **Languages:** Python, JavaScript/TypeScript, C, C++  
-- **Frameworks/Tools:** Node.js, MongoDB, Socket.io, React.js, Express.js, Next.js/Vercel
+- **Frameworks/Tools:** Node.js, MongoDB, Socket.io, React.js, Express.js, Next.js/Vercel, SDL2
 - **Math/ML:** K-Means, PCA, Statistical Classification  
 - **Graphics:** Rendering fundamentals, shader concepts, simulation techniques  
 
